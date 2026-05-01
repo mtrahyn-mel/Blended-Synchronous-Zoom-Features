@@ -6036,7 +6036,7 @@
 {
 "id":"Slide10780",
 "class":"Normal Slide",
-"instance":"Blank 1",
+"instance":"Mini Design Challenge",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6611,18 +6611,6 @@
 "id":"si10757",
 "uri":"vr/Vi10750.webm"
 }
-,{
-"id":"si7290",
-"uri":"vr/Vi7283.webm"
-}
-,{
-"id":"si10757",
-"uri":"vr/Vi10750.webm"
-}
-,{
-"id":"si10757",
-"uri":"vr/Vi10750.webm"
-}
 ]
 ,"toc":[{
 "id":"Slide427",
@@ -6698,7 +6686,7 @@
 }
 ,{
 "id":"Slide10780",
-"title":"Blank 1"
+"title":"Mini Design Challenge"
 }
 ,{
 "id":"Slide2945",
